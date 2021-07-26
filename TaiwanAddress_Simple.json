@@ -1,0 +1,434 @@
+[
+    {
+        "city": "臺北市",
+        "districts": [
+            {
+                "district": "中正區",
+                "zipcode": "100"
+            },
+            {
+                "district": "大同區",
+                "zipcode": "103"
+            },
+            {
+                "district": "中山區",
+                "zipcode": "104"
+            },
+            {
+                "district": "松山區",
+                "zipcode": "105"
+            },
+            {
+                "district": "大安區",
+                "zipcode": "106"
+            },
+            {
+                "district": "萬華區",
+                "zipcode": "108"
+            },
+            {
+                "district": "信義區",
+                "zipcode": "110"
+            },
+            {
+                "district": "士林區",
+                "zipcode": "111"
+            },
+            {
+                "district": "北投區",
+                "zipcode": "112"
+            },
+            {
+                "district": "內湖區",
+                "zipcode": "114"
+            },
+            {
+                "district": "南港區",
+                "zipcode": "115"
+            },
+            {
+                "district": "文山區",
+                "zipcode": "116"
+            }
+        ]
+    },
+    {
+        "city": "基隆市",
+        "districts": [
+            {
+                "district": "仁愛區",
+                "zipcode": "200"
+            },
+            {
+                "district": "信義區",
+                "zipcode": "201"
+            },
+            {
+                "district": "中正區",
+                "zipcode": "202"
+            },
+            {
+                "district": "中山區",
+                "zipcode": "203"
+            },
+            {
+                "district": "安樂區",
+                "zipcode": "204"
+            },
+            {
+                "district": "暖暖區",
+                "zipcode": "205"
+            },
+            {
+                "district": "七堵區",
+                "zipcode": "206"
+            }
+        ]
+    },
+    {
+        "city": "新北市",
+        "districts": [
+            {
+                "district": "萬里區",
+                "zipcode": "207"
+            },
+            {
+                "district": "金山區",
+                "zipcode": "208"
+            },
+            {
+                "district": "板橋區",
+                "zipcode": "220"
+            },
+            {
+                "district": "汐止區",
+                "zipcode": "221"
+            },
+            {
+                "district": "深坑區",
+                "zipcode": "222"
+            },
+            {
+                "district": "石碇區",
+                "zipcode": "223"
+            },
+            {
+                "district": "瑞芳區",
+                "zipcode": "224"
+            },
+            {
+                "district": "平溪區",
+                "zipcode": "226"
+            },
+            {
+                "district": "雙溪區",
+                "zipcode": "227"
+            },
+            {
+                "district": "貢寮區",
+                "zipcode": "228"
+            },
+            {
+                "district": "新店區",
+                "zipcode": "231"
+            },
+            {
+                "district": "坪林區",
+                "zipcode": "232"
+            },
+            {
+                "district": "烏來區",
+                "zipcode": "233"
+            },
+            {
+                "district": "永和區",
+                "zipcode": "234"
+            },
+            {
+                "district": "中和區",
+                "zipcode": "235"
+            },
+            {
+                "district": "土城區",
+                "zipcode": "236"
+            },
+            {
+                "district": "三峽區",
+                "zipcode": "237"
+            },
+            {
+                "district": "樹林區",
+                "zipcode": "238"
+            },
+            {
+                "district": "鶯歌區",
+                "zipcode": "239"
+            },
+            {
+                "district": "三重區",
+                "zipcode": "241"
+            },
+            {
+                "district": "新莊區",
+                "zipcode": "242"
+            },
+            {
+                "district": "泰山區",
+                "zipcode": "243"
+            },
+            {
+                "district": "林口區",
+                "zipcode": "244"
+            },
+            {
+                "district": "蘆洲區",
+                "zipcode": "247"
+            },
+            {
+                "district": "五股區",
+                "zipcode": "248"
+            },
+            {
+                "district": "八里區",
+                "zipcode": "249"
+            },
+            {
+                "district": "淡水區",
+                "zipcode": "251"
+            },
+            {
+                "district": "三芝區",
+                "zipcode": "252"
+            },
+            {
+                "district": "石門區",
+                "zipcode": "253"
+            }
+        ]
+    },
+    {
+        "city": "連江縣",
+        "districts": [
+            {
+                "district": "南竿鄉",
+                "zipcode": "209"
+            },
+            {
+                "district": "北竿鄉",
+                "zipcode": "210"
+            },
+            {
+                "district": "莒光鄉",
+                "zipcode": "211"
+            },
+            {
+                "district": "東引鄉",
+                "zipcode": "212"
+            }
+        ]
+    },
+    {
+        "city": "宜蘭縣",
+        "districts": [
+            {
+                "district": "宜蘭市",
+                "zipcode": "260"
+            },
+            {
+                "district": "壯圍鄉",
+                "zipcode": "263"
+            },
+            {
+                "district": "頭城鎮",
+                "zipcode": "261"
+            },
+            {
+                "district": "礁溪鄉",
+                "zipcode": "262"
+            },
+            {
+                "district": "員山鄉",
+                "zipcode": "264"
+            },
+            {
+                "district": "羅東鎮",
+                "zipcode": "265"
+            },
+            {
+                "district": "三星鄉",
+                "zipcode": "266"
+            },
+            {
+                "district": "大同鄉",
+                "zipcode": "267"
+            },
+            {
+                "district": "五結鄉",
+                "zipcode": "268"
+            },
+            {
+                "district": "冬山鄉",
+                "zipcode": "269"
+            },
+            {
+                "district": "蘇澳鎮",
+                "zipcode": "270"
+            },
+            {
+                "district": "南澳鄉",
+                "zipcode": "272"
+            },
+            {
+                "district": "釣魚臺",
+                "zipcode": "290"
+            }
+        ]
+    },
+    {
+        "city": "釣魚臺",
+        "districts": [
+            {
+                "district": "釣魚臺",
+                "zipcode": "290"
+            }
+        ]
+    },
+    {
+        "city": "新竹市",
+        "districts": [
+            {
+                "district": "東區",
+                "zipcode": "300"
+            },
+            {
+                "district": "北區",
+                "zipcode": "300"
+            },
+            {
+                "district": "香山區",
+                "zipcode": "300"
+            }
+        ]
+    },
+    {
+        "city": "新竹縣",
+        "districts": [
+            {
+                "district": "寶山鄉",
+                "zipcode": "308"
+            },
+            {
+                "district": "竹北市",
+                "zipcode": "302"
+            },
+            {
+                "district": "湖口鄉",
+                "zipcode": "303"
+            },
+            {
+                "district": "新豐鄉",
+                "zipcode": "304"
+            },
+            {
+                "district": "新埔鎮",
+                "zipcode": "305"
+            },
+            {
+                "district": "關西鎮",
+                "zipcode": "306"
+            },
+            {
+                "district": "芎林鄉",
+                "zipcode": "307"
+            },
+            {
+                "district": "竹東鎮",
+                "zipcode": "310"
+            },
+            {
+                "district": "五峰鄉",
+                "zipcode": "311"
+            },
+            {
+                "district": "橫山鄉",
+                "zipcode": "312"
+            },
+            {
+                "district": "尖石鄉",
+                "zipcode": "313"
+            },
+            {
+                "district": "北埔鄉",
+                "zipcode": "314"
+            },
+            {
+                "district": "峨眉鄉",
+                "zipcode": "315"
+            }
+        ]
+    },
+    {
+        "city": "桃園市",
+        "districts": [
+            {
+                "district": "中壢區",
+                "zipcode": "320"
+            },
+            {
+                "district": "平鎮區",
+                "zipcode": "324"
+            },
+            {
+                "district": "龍潭區",
+                "zipcode": "325"
+            },
+            {
+                "district": "楊梅區",
+                "zipcode": "326"
+            },
+            {
+                "district": "新屋區",
+                "zipcode": "327"
+            },
+            {
+                "district": "觀音區",
+                "zipcode": "328"
+            },
+            {
+                "district": "桃園區",
+                "zipcode": "330"
+            },
+            {
+                "district": "龜山區",
+                "zipcode": "333"
+            },
+            {
+                "district": "八德區",
+                "zipcode": "334"
+            },
+            {
+                "district": "大溪區",
+                "zipcode": "335"
+            },
+            {
+                "district": "復興區",
+                "zipcode": "336"
+            },
+            {
+                "district": "大園區",
+                "zipcode": "337"
+            },
+            {
+                "district": "蘆竹區",
+                "zipcode": "338"
+            }
+        ]
+    },
+    {
+        "city": "苗栗縣",
+        "districts": [
+            {
+                "district": "竹南鎮",
+                "zipcode": "350"
+            },
+            {
